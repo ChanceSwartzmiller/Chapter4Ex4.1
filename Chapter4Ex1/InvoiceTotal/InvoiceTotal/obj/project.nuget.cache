@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "MrQU25+jVIE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chanc\\OneDrive\\Desktop\\C#\\cse8_allfiles\\BookApps\\ch04\\InvoiceTotal\\InvoiceTotal\\InvoiceTotal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chanc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\chanc\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\chanc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\chanc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
